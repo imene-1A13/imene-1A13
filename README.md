@@ -1,10 +1,15 @@
 <!-- Header Animation -->
 <div align="center">  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:C084FC&height=200&section=header&text=Imen%20Gassoumi&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=50"/>
-  
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&color=F472B6&lines=Full+Stack+Developer;Software+Engineer;4%2B+Years+of+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG"/>
+</div>
+
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&color=F472B6&lines=Software+Engineer;Full+Stack+Developer;BSc+in+Computer+Science+(+2024+);4%2B+Years+of+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG"/>
+</div>
+
+
+</html>
   </a>
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
