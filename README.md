@@ -197,6 +197,9 @@
   <li>🇦🇪 <strong>Arabic</strong> - Fluent</li>
   <li>🇬🇧 <strong>English</strong> - B2 Level (EF Test: 70/100)</li>
   <li>🇫🇷 <strong>French</strong> - B2 Level</li>
+  <li>🇫🇷 <strong>Deutsch</strong> - A1.1 Level</li>
+
+
 </ul>
 
 
